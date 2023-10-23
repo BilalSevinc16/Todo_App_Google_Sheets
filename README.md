@@ -1,16 +1,7 @@
-# todo_app_google_sheets
+# Todo App Google Sheets
 
-A new Flutter project.
+Todo App with Google Sheets
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Todo_App_Google_Sheets/assets/146417248/29b18a23-9e01-4ef8-a02d-110c2eff94de)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Todo_App_Google_Sheets/assets/146417248/967c6501-5561-435a-97fc-d8793b771fcd)
